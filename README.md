@@ -1,6 +1,6 @@
 ![2351](Screenshots//2351.png)
 
-# Handwritten-Digits-Recognizer-1.0
+# Handwritten-Digits-Recognizer
 
 Actually Mousewritten Digits Recognizer using CNN (Convolutional Neural Networks) in Python with Keras
 
